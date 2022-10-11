@@ -20,7 +20,7 @@ class BreakfastCategories extends StatelessWidget {
                     children: [
                       
                            Container(
-                            child: Image(image: AssetImage('images/Rectangle`.png'),),
+                            child: Image(image: AssetImage('images/Rectangle1.png'),),
                            ),
                       
                     ],
